@@ -1,0 +1,42 @@
+
+
+.header {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: stretch;
+    justify-content: center;
+    align-items: center;
+}
+
+#start {
+    position: flex;
+    border-radius: 40px;
+    padding: 10px;
+    margin: 10px;
+    height: 90px;
+    width: 200px;
+    font-size: 30px;
+    background-color: blueviolet;
+    color: black;
+}
+
+video {
+    border-radius: 20px;
+    width:100%;
+    width: 696px;
+}
+
+.card-img-bottom {
+    border-radius: 20px;
+}
+
+button {
+border-radius: 20px;
+}
+
+
+
+
+
+
